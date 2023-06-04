@@ -1,0 +1,42 @@
+/* color scheme
+
+#B66E3F
+#B68D3F
+#324A79
+#287465
+
+*/
+
+body {
+    font-size: 1em;
+    font-weight: normal;
+    font-family: Arial, Sans-serif;
+    color: #000000; /* black */ 
+    text-align: left;
+    background-color: #ffa86d;
+}
+h1 {
+    font-size: 1.8em;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif, Sans-serif;
+    color: #53d5dc;
+    text-align: center;
+}
+h2 {
+    font-size: 1.4em;
+    font-weight: bold;
+    color: #4382ff;
+    text-align: left;
+}
+/*div {
+    font-size: 1.8em;
+    font-weight: bold;
+    color: #0000ff;
+    text-align: left;
+}*/
+p {
+    font-size: 1em;
+    font-weight: normal;
+    color: #0000ff;
+    text-align: left;
+} 
